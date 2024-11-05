@@ -1,18 +1,18 @@
 # LITA-CAPSTONE-PROJECT
 
-##RETAIL SALES PERFORMANCE ANALYSIS
+RETAIL SALES PERFORMANCE ANALYSIS
 
-##INTRODUCTION
+INTRODUCTION
 This repository contains data and analysis for evaluating the sales performance of a retail store. The goal is to provide insights into key areas such as top-selling products, regional performance, and monthly sales trends.
 
-###DATASET DESCRIPTION:
+DATASET DESCRIPTION:
 
 - Sales data (transactional)
 - Product information (product ID, name, category, price)
 - Regional information (store location, region)
 - Date information (date, month, quarter, year)
 
-### KEY INSIGHTS
+KEY INSIGHTS
 1. Top-selling products
 2. Regional sales performance
 3. Monthly sales trends
@@ -21,7 +21,7 @@ This repository contains data and analysis for evaluating the sales performance 
 6. Store-level sales performance
 
 
-###POWER BI DASHBOARD
+POWER BI DASHBOARD
 
 The dashboard includes:
 
@@ -31,7 +31,7 @@ The dashboard includes:
 - Monthly trends page: Monthly sales trend, seasonal sales patterns, year-over-year sales growth
 
 
-###Tools Used:
+TOOLS USED:
 
 - Power BI 
 - Microsoft Excel
