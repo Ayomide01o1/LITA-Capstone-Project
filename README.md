@@ -27,7 +27,7 @@ The dashboard includes:
 - Product analysis page: Product category sales, product sales trend
 - Regional analysis page: Regional sales performance, store-level sales performance, regional sales trend
 - Monthly trends page: Monthly sales trend.
-  ![Screenshot 2024-11-06 204700](https://github.com/user-attachments/assets/27bee4ba-646b-4714-b61f-59fd18c4dde4)
+(https://github.com/user-attachments/assets/27bee4ba-646b-4714-b61f-59fd18c4dde4)
 
 ### TOOLS USED:
 - Power BI
@@ -35,7 +35,7 @@ The dashboard includes:
 - Microsoft Excel
   1. Analysis
   2. Visualization
-  3. ![Screenshot 2024-11-06 202835](https://github.com/user-attachments/assets/8c89bd07-e986-4508-9c61-99bef0f4251d)
+  (https://github.com/user-attachments/assets/8c89bd07-e986-4508-9c61-99bef0f4251d)
 - SQL server
   1. Structured query language for quering data
 
