@@ -36,7 +36,6 @@ The dashboard includes:
   1. Analysis
   2. Visualization
   3. ![Screenshot 2024-11-06 202835](https://github.com/user-attachments/assets/8c89bd07-e986-4508-9c61-99bef0f4251d)
-
 - SQL server
   1. Structured query language for quering data
 
